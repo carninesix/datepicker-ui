@@ -16,3 +16,7 @@ main {
     max-width: 40vw;
     max-height: 50vh;
 }
+
+#search-bar {
+    display: flex;
+}
